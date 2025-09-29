@@ -1,3 +1,26 @@
+# Crypto Scope
+
+This is a next js project that allows you to view information about crytocurrencies. It has a ui made with chakra ui and has graphs and tables to display data.
+
+## Features
+
+- View Market Info
+- Search cyptocurrencies
+- Pagination
+- Graphs
+- Tables
+- Description of coins
+- Data on each cryptocurrency
+
+## Technologies Used
+
+- React
+- Next.js
+- Typescript
+- Chakra UI
+
+The data is gotten from [coinGecko](https://www.coingecko.com/) api
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
