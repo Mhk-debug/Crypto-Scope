@@ -2,6 +2,8 @@
 
 This is a next js project that allows you to view information about crytocurrencies. It has a ui made with chakra ui and has graphs and tables to display data.
 
+![Preview Image](preview.png)
+
 ## Features
 
 - View Market Info
